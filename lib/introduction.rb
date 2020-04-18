@@ -7,3 +7,4 @@ def say_anything_x_times (phrase, x)
   x.times do
 end
 end
+say_anything_x_times("Hello", 20)
