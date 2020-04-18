@@ -2,4 +2,5 @@
 
 def say_hello_x_times(x)
 end
-def say_hello_x_times
+def say_hello_x_times(20)
+  
