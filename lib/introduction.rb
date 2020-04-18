@@ -1,7 +1,3 @@
 # lib/ introduction.RUBY_VERSION
-
-def say_hello_x_times (20)
-  x.times do
-  end
+def say_hello_x_times (5)
 end
-  
